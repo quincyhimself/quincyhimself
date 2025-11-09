@@ -10,8 +10,8 @@
 
 <h2>📄 Certifications:</h2>
 
-- [Powerpoint 2019 Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Word 2019 Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b> Powerpoint 2019 Associate <b>
+- <b> Word 2019 Associate <b>
     
 <h2>📺 YouTube Videos:</h2>
 
