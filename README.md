@@ -6,7 +6,7 @@
 
 <h2>💻 General IT Projects:</h2>
 
-- [Chrome Extension Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Chrome Extension Project](https://github.com/quincyhimself/ChromeExtensionProject)
 
 <h2>📄 Certifications:</h2>
 
